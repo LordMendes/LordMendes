@@ -4,7 +4,7 @@
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working as a ReacJS developer at Workalove :rocket:
+- 👤 I’m currently working as a frontend developer at Workalove :rocket:
 - ❤ I’m always improving on ReactJS and NodeJS
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
