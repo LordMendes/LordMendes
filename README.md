@@ -23,12 +23,7 @@
       src="https://github-readme-stats.vercel.app/api?username=LordMendes&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=synthwave"
     />
   </a>
-  <a href="https://wakatime.com/@LordMendes">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=LordMendes&theme=synthwave"
-    />
-  </a>
+
 </p>
 
 
