@@ -8,6 +8,9 @@
 - ❤ I’m always improving on ReactJS and NodeJS
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
+ ### Goals for 2020 :rocket:
+ - Improve my abilities in [ReactJs](https://reactjs.org/)
+ - Improve my abilities in [NodeJs](https://nodejs.org/en/)
 
 <p align="center">
   <a href="https://github.com/LordMendes">
