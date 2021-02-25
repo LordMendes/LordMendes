@@ -29,7 +29,6 @@
       src="https://github-readme-stats.vercel.app/api?username=LordMendes&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=synthwave"
     />
   </a>
- ![](https://komarev.com/ghpvc/?username=LordMendes)
 
 </p>
 
