@@ -10,6 +10,7 @@
 
  ### Goals for 2022 :rocket:
  - Improve my System Design knowledge
+ - Get more knowledge around AWS ecosystem
  - Learn more Swift to boost my React Native habilities
 
 <p align="center">
