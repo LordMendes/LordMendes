@@ -9,8 +9,8 @@
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
  ### Goals for 2022 :rocket:
- - Improve my System Design knowledge;
- - Learn more Swift to boost my React Native habilities;
+ - Improve my System Design knowledge
+ - Learn more Swift to boost my React Native habilities
 
 <p align="center">
   <a href="https://github.com/LordMendes">
