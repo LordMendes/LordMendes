@@ -1,19 +1,16 @@
 # Lucas C. mendes 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LordMendes)](https://github.com/LordMendes) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascmendes91/)](https://www.linkedin.com/in/lucascmendes91/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LordMendes)](https://github.com/LordMendes) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascmendes91/)](https://www.linkedin.com/in/devmendes/)
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working as a frontend developer at Workalove :rocket:
-- ❤ I’m always improving on ReactJS and NodeJS
+- 👤 I’m currently working as a frontend developer at Vizir Software Studio :rocket:
+- ❤ I’m always improving on React Native, ReactJS and NodeJS
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
- ### Goals for 2021 :rocket:
- - Improve my abilities in [ReactJs](https://reactjs.org/)
- - Improve my abilities in [NodeJs](https://nodejs.org/en/)
- - Learn more [NextJs](https://nextjs.org/)
- - Learn [Redux](Redux)
- - Learn [RecoilJs](https://recoiljs.org/)
+ ### Goals for 2022 :rocket:
+ - Improve my System Design knowledge;
+ - Learn more Swift to boost my React Native habilities;
 
 <p align="center">
   <a href="https://github.com/LordMendes">
