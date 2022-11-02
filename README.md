@@ -4,14 +4,14 @@
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working as a frontend developer at Vizir Software Studio :rocket:
-- ❤ I’m always improving on React Native, ReactJS and NodeJS
+- 👤 I’m currently working as a technical leader at CareCru :rocket:
+- ❤ I’m always improving on React Native, ReactJS and NodeJS (and now GO)
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
- ### Goals for 2022 :rocket:
- - Improve my System Design knowledge
- - Get more knowledge around AWS ecosystem
- - Learn more Swift to boost my React Native habilities
+ ### Goals for 2023 :rocket:
+ - Get into cloud archtecture
+ - Learn more GO
+ - Improve leardership and management skills
 
 <p align="center">
   <a href="https://github.com/LordMendes">
