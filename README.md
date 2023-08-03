@@ -1,6 +1,6 @@
 # Lucas C. mendes 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LordMendes)](https://github.com/LordMendes) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascmendes91/)](https://www.linkedin.com/in/devmendes/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LordMendes)](https://github.com/LordMendes) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmendes/)](https://www.linkedin.com/in/lucas-c-mendes/)
 
 ### Welcome to my profile! 👋
 
