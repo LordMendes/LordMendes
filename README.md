@@ -4,7 +4,7 @@
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working as a Senior Software Engineer at Superformula as a consultant in MGM Resorts:rocket:
+- 👤 I’m currently working as a Senior Software Engineer at Superformula as a consultant in MGM Resorts :rocket:
 - ❤ I’m always improving on React Native, ReactJS and NodeJS and GO
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
