@@ -4,8 +4,8 @@
 
 ### Welcome to my profile! 👋
 
-- 👤 I’m currently working as a technical leader at CareCru :rocket:
-- ❤ I’m always improving on React Native, ReactJS and NodeJS (and now GO)
+- 👤 I’m currently working as a Senior Software Engineer at Superformula :rocket:
+- ❤ I’m always improving on React Native, ReactJS and NodeJS and GO
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
  ### Goals for 2024 :rocket:
