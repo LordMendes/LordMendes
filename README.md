@@ -8,9 +8,10 @@
 - ❤ I’m always improving on React Native, ReactJS and NodeJS (and now GO)
 - 📫 Reach me at lucasmendes.lx@gmail.com
 
- ### Goals for 2023 :rocket:
+ ### Goals for 2024 :rocket:
  - Get into cloud archtecture
- - Learn more GO
+ - Go deep on NodeJS Backend
+ - Learn more about aerodynamics simulation
  - Improve leardership and management skills
 
 <p align="center">
