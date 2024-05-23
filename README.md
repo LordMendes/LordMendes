@@ -21,14 +21,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordMendes&layout=compact&theme=synthwave"
     />
   </a>
-  <a href="https://github.com/LordMendes">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=LordMendes&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=synthwave"
-    />
-  </a>
-
 </p>
 
 
