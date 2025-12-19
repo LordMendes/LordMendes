@@ -6,11 +6,9 @@
 
 - 👤 I’m currently working as a Senior Software Engineer at Superformula as a consultant in MGM Resorts :rocket:
 - ❤ I’m always improving on React Native, ReactJS and NodeJS and GO
-- 📫 Reach me at lucasmendes.lx@gmail.com
 
- ### Goals for 2024 :rocket:
+ ### Goals for 2026 :rocket:
  - Get into cloud archtecture
- - Go deep on NodeJS Backend
  - Learn more about aerodynamics simulation
  - Improve leardership and management skills
 
